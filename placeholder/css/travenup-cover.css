@@ -1,0 +1,17 @@
+body {
+	font-family: 'Cabin';
+	text-shadow: none;
+}
+
+html, body {
+  background-color: #FF8536;
+}
+
+.travenup-brand {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 200;
+}
+
+.travenup-brand strong {
+	font-weight: 400;
+}
