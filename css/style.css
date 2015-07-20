@@ -1,0 +1,180 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+ caption, tbody, tfoot, thead, 
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1; 
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#slad-geral { width:100%; height:773px; position:absolute; top:0; z-index:999; overflow-x:hidden;}
+#banner-1 { background-image:url(../images/baner-travenup-2.jpg); min-width:1000px; width:100%; height:773px; background-position:center top;}
+.segura-txt-banner { width:1000px; margin:0 auto; }
+.txt-banner1 { width:270px; height:auto; float:right; margin-top:170px; }
+.txt-banner1 p { font-size:20px; font-family: 'Cabin', sans-serif; color:#FFF; line-height:28px; margin-bottom:15px; }
+.txt-banner1 h3 { font-size:14px; font-family: 'Cabin', sans-serif; color:#FFF; font-style:italic; }
+
+.segura-txt-banner2 { width:1000px; margin:0 auto; }
+.txt-banner2 { width:270px; height:auto; float:left; margin-top:170px; margin-left:300px; }
+.txt-banner2 p { font-size:20px; font-family: 'Cabin', sans-serif; color:#FFF; line-height:28px; margin-bottom:15px; }
+.txt-banner2 h3 { font-size:14px; font-family: 'Cabin', sans-serif; color:#FFF; font-style:italic; }
+
+#banner-2 { background-image:url(../images/baner-travenup.jpg); width:100%;height:773px; background-position:center top;}
+
+#baner-traven-up{ min-width:1000px; width:100%; overflow:auto; background-repeat:no-repeat; position:relative; z-index:9999;}
+
+#baner-traven-up-int { background-image:url(../images/baner-travenup-int.jpg); min-width:1000px; width:100%; background-repeat:no-repeat; background-position:center; position:relative; z-index:9999; height:244px;}
+#baner-topo-int { width:1000px; height:244px; margin:0 auto;}
+
+
+#baner-topo{ background:#; width:1000px; height:923px; margin:0 auto;}
+#box{ background:#; width:1000px; height:85px; margin-bottom:300px;}
+#box-logo{ background:#; width:220px; height:85px; float:left;}
+#box-logo img{ margin-top:21px; margin-left:30px;}
+#box-menu{ background:#; width:779px; height:58px; float:left; text-align:right; padding-top:27px; }
+#box-menu a{ text-decoration:none; color:#FFF; margin-left:25px;font-family: 'Cabin', sans-serif; font-size:14px; font-weight:lighter; }
+.verde{ background:#00D9A3; padding-top:8px; padding-bottom:8px; padding-right:17px; padding-left:17px;-webkit-border-radius: 4px; font-size:16px;-moz-border-radius: 4px; border-radius: 4px;}
+
+#boock{ background:#; width:1000px; height:200px; padding-top:60px; margin-bottom:109px;}
+#boock h1{ font-family: 'Cabin', sans-serif; font-size:60px; color:#FFF; font-weight:lighter; text-align:center; margin-bottom:13px;}
+#boock p{ font-family: 'Cabin', sans-serif; font-size:30px; color:#FFF; font-weight:400; text-align:center; margin-bottom:28px;}
+#how-It-works{ background:url(../images/fd-cinza.png); width:217px; height:33px; margin:0 auto;font-family: 'Cabin', sans-serif; font-size:20px; color:#FFF; font-weight:400; text-align:center; padding-top:14px; z-index:99999; position:relative;}
+
+#download{ background:#00A3D9; width:372px; height:28px; margin:0 auto;font-family: 'Cabin', sans-serif; font-size:18px; color:#FFF;font-weight:400; text-align:center; padding-top:8px; margin-bottom:40px;}
+#the-travenup-app{ background:#; width:1000px; height:auto;}
+#the-travenup-app h2{font-family: 'Cabin', sans-serif; font-size:46px; color:#333333; font-weight:400; text-align:center;}
+
+#fd-meio-int-geral { background:#E8E8EA; width:100%; overflow:auto; }
+#fd-meio-int { width:1000px; overflow:auto;margin:0 auto; }
+#menu-int-esq { width:360px; float:left;  overflow:auto; }
+#box-int-esq1 { overflow:auto; padding-bottom:20px; padding-top:20px; background:#BBBCBB; padding-left:20px; color:#000000; font-family: 'Cabin', sans-serif; font-size:15px; padding-right:20px; }
+#box-int-esq2 { overflow:auto; padding-bottom:20px; padding-top:20px; background:#DBDBDB; padding-left:20px; color:#000000; font-family: 'Cabin', sans-serif; font-size:15px; padding-right:20px; }
+.ico-box-int { float:right; text-align:right; }
+#menu-int-dir { width:600px; float:right; overflow:auto; padding-left:40px; padding-top:40px; padding-bottom:40px; }
+#menu-int-dir h1 { font-family: 'Cabin', sans-serif; color:#08CD86; font-size:20px; margin-bottom:20px; }
+#menu-int-dir p { font-family: 'Cabin', sans-serif; font-size:15px;color:#000000; line-height:28px; text-align:justify; }
+
+.box-recomendacoes1 { margin-bottom:40px; margin-top:40px; height:480px; width:480px; margin-right:20px; background-image:url(../images/recomendacoes-1.jpg); float:left; text-align:center; background-position:bottom; position:relative; z-index:99; cursor:pointer;}
+.box-recomendacoes1 p { font-family: 'Cabin', sans-serif; font-size:46px; color:#FFF; margin-top:201px;  }
+
+.box-recomendacoes2 {  margin-bottom:40px; margin-top:40px; height:480px; width:480px; margin-left:20px; background-image:url(../images/recomendacoes-2.jpg); float:left; text-align:center; background-position:bottom; position:relative; z-index:99;cursor:pointer;}
+.box-recomendacoes2 p { font-family: 'Cabin', sans-serif; font-size:46px; color:#FFF; margin-top:201px;  }
+
+.box-recomendacoess1-txt { display:none; margin-bottom:40px; margin-top:40px; height:400px; width:700px; background:#000; text-align:justify; position:absolute;z-index:999; padding-top:40px; padding-bottom:40px; padding-left:150px; padding-right:150px; }
+.box-recomendacoess1-txt h2 {  font-family: 'Cabin', sans-serif; font-size:35px; color:#FFF; margin-bottom:20px; }
+.box-recomendacoess1-txt p { font-family: 'Cabin', sans-serif; font-size:15px;color:#fff; line-height:28px; text-align:justify; }
+
+.box-recomendacoess2-txt { margin-bottom:40px; margin-top:40px; height:400px; width:700px; background:#000; text-align:justify; position:absolute;z-index:999; display:none; padding-top:40px; padding-bottom:40px; padding-left:150px; padding-right:150px; }
+.box-recomendacoess2-txt h2 {  font-family: 'Cabin', sans-serif; font-size:35px; color:#FFF; margin-bottom:20px; }
+.box-recomendacoess2-txt p { font-family: 'Cabin', sans-serif; font-size:15px;color:#fff; line-height:28px; text-align:justify; }
+
+
+#fd-meio{ background:url(../images/fd-meio-2.jpg); width:100%; height:887px;}
+#box10{ background:#; width:1000px; height:778px; margin:0 auto;}
+#box11{ background:#; width:400px; height:778px; float:left;}
+#logo-cel { width:300px; height:80px; padding-top:40px;}
+#box11 img{ margin-left:30px;  }
+#box12{ background:#; width:600px; height:778px; float:left; }
+#boxs-log-in{ width:215px; height:80px; padding-left:485px; padding-top:40px;}
+#boxs-log-in a { text-decoration:none; color:#FFF; margin-left:20px;font-family: 'Cabin', sans-serif; font-size:14px; font-weight:lighter; }
+#boxs-offer { width:630px; height:auto;padding-top:35px; margin-bottom:10px;}
+#boxs-offer h2 { font-family: 'Cabin', sans-serif; font-size:46px; color:#FFF; margin-left:52px;}
+
+#box-quadra{ position:relative; width:658px; height:508px; float:left;margin-top:136px; margin-left:40px; margin-top:10px;}
+#div-boxs-tranfers { background:#000000; width:310px; height:247px; float:left; margin-left:10px; margin-bottom:10px; cursor:pointer;}
+#div-boxs-tranfers h2 { font-family: 'Cabin', sans-serif; font-size:28px; color:#fff; font-weight:lighter; text-align:center; margin-top:90px;}
+#div-boxs-tranfers img { margin-left:137px; margin-top:25px; }
+#div-clik-quadrado { display:none; width:630px; height:504px; background:#999; margin-left:10px; position:relative; z-index:999;}
+
+#div-boxs-tranfers-grande { display:none; background:#000; width:560px; height:444px; margin-left:10px; position:absolute; z-index:999; padding-left:35px; padding-right:35px; padding-bottom:30px; padding-top:30px; top:0; text-align:justify; }
+#div-boxs-tranfers-grande p {font-family: 'Cabin', sans-serif; font-size:16px; color:#fff; line-height:30px;}
+
+#div-boxs-tranfers-grande-2 { display:none; background:#000; width:560px; height:444px; margin-left:10px; position:absolute; z-index:999; padding-left:35px; padding-right:35px; padding-bottom:30px; padding-top:30px; top:0; text-align:justify; }
+#div-boxs-tranfers-grande-2 p {font-family: 'Cabin', sans-serif; font-size:16px; color:#fff;   line-height:30px;}
+
+#div-boxs-tranfers-grande-3 { display:none; background:#000; width:560px; height:444px; margin-left:10px; position:absolute; z-index:999; padding-left:35px; padding-right:35px; padding-bottom:30px; padding-top:30px; top:0; text-align:justify;  }
+#div-boxs-tranfers-grande-3 p {font-family: 'Cabin', sans-serif; font-size:16px; color:#fff;line-height:30px;}
+
+#div-boxs-tranfers-grande-4 { display:none; background:#000; width:560px; height:444px; margin-left:10px; position:absolute; z-index:999; padding-left:35px; padding-right:35px; padding-bottom:30px; padding-top:30px; top:0; text-align:justify;  }
+#div-boxs-tranfers-grande-4 p {font-family: 'Cabin', sans-serif; font-size:16px; color:#fff; line-height:30px;}
+
+#service-here { width:670px; height:50px; margin-top:540px;}
+#box-here { background:#00A3D9; width:468px; height:38px; margin-left:130px;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;
+border-radius: 4px; padding-top:12px;}
+#box-here h2 {font-family: 'Cabin', sans-serif; font-size:26px; color:#fff; text-align:center; font-weight:lighter;}
+
+#fd-laranja{ position:absolute; z-index:999; margin-top:205px; margin-left:-40px;}
+#fd-X{font-family: 'Cabin', sans-serif;font-size: 30px;color: #000;display:none;margin-top: 124px;margin-left: 510px; position:absolute; z-index: 99999;cursor: pointer; margin-left:623px;margin-top: -30px; 
+}
+#fd-X2{font-family: 'Cabin', sans-serif;font-size: 30px;color: #00D8A2; position: absolute;z-index: 999999;cursor: pointer;margin-left: 832px;margin-top: -462px;  display:none;}
+#fd-X3{font-family: 'Cabin', sans-serif;font-size: 30px;color: #00D8A2; position: absolute;z-index: 999999;cursor: pointer;margin-left: 832px;margin-top: -462px;  display:none; }
+#back-rodape{ background:#000; width:100%; height:405px;}
+#box30{ background:#;width:1000px; height:405px; margin:0 auto;}
+#box31{ background:#;width:1000px; height:300px;}
+
+#english{ width:245px; overflow:auto; float:left; padding-top:45px;}
+
+.select{ background: #333333 url(../images/flecha-drop.png) 96% center no-repeat; width:160px; overflow:auto; margin-bottom:10px; padding-left:5px; padding-bottom:10px; padding-top:10px; color:#FFF; font-family: 'Cabin', sans-serif; font-size:13px; -webkit-appearance: none; -moz-appearance: none; appearance: none; border: none; }
+
+#company{ width:215px; height:300px; float:left;}
+#company h2{font-family: 'Cabin', sans-serif; font-size:15px; color:#FFF; font-weight:bold; margin-top:45px; margin-bottom:20px; margin-left:10px;}
+#company p{font-family: 'Cabin', sans-serif; font-size:14px; color:#FFFFFF; line-height:23px; margin-left:10px;}
+#company a{font-family: 'Cabin', sans-serif; font-size:14px; color:#FFFFFF; line-height:23px; margin-left:10px; text-decoration:none; }
+
+#discover{ background:#;width:215px; height:300px; float:left;}
+#discover h2{font-family: 'Cabin', sans-serif; font-size:15px;color:#FFF; font-weight:bold; margin-top:45px; margin-bottom:20px; margin-left:40px;}
+#discover p{font-family: 'Cabin', sans-serif; font-size:14px;color:#FFFFFF;font-weight:400;line-height:23px;margin-left:40px;}
+#downlo-adapp{ background:#;width:325px; height:300px; float:left;}
+#downlo-adapp h2{font-family: 'Cabin', sans-serif; font-size:16px;color:#FFF;font-weight:bold; text-align:center; margin-top:45px;}
+#downlo-adapp p{ font-family:Arial, Helvetica, sans-serif; font-size:12px;color:#999999; text-align:center;}
+#box-img1{ background:#; width:148px; height:41px; float:left; margin-left:2px; margin-top:30px; margin-bottom:80px;}
+#box-img1 img{ margin-left:38px;}
+#box-img2{ background:#; width:148px; height:41px; float:left; margin-left:10px; margin-top:30px;margin-bottom:80px;}
+#box-img2 img{ margin-right:0px;}
+
+#join-us-on{ background:#;width:1000px; height:85px; padding-top:20px; border-top:1px solid #333333;}
+#join-us-on h2{ text-align:center; font-family: 'Cabin', sans-serif; font-size:14px;color:#FFF;font-weight:bold; margin-bottom:10px;}
+#box-join-us-on{ background:#; width:300px; height:50px; margin:0 auto;}
+#box-face{ background:#; width:33px; height:50px; float:left; margin-left:27px;}
+#box-twi{ background:#; width:33px; height:50px; float:left;margin-left:20px;}
+#box-in{background:#; width:33px; height:50px; float:left;margin-left:20px}
+#box-ista{ background:#; width:33px; height:50px; float:left;margin-left:20px;}
+#box-goog{ background:#; width:33px; height:50px; float:left;margin-left:20px;}
