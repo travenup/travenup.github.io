@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ens on TravenUp</title>
-    <link>http://www.travenup.com/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content in Ens on TravenUp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jul 2015 11:36:37 -0300</lastBuildDate>
-    <atom:link href="http://www.travenup.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Tips</title>
-      <link>http://www.travenup.com/en/help/tips/</link>
+      <link>http://localhost:1313/en/help/tips/</link>
       <pubDate>Tue, 21 Jul 2015 11:36:37 -0300</pubDate>
       
-      <guid>http://www.travenup.com/en/help/tips/</guid>
+      <guid>http://localhost:1313/en/help/tips/</guid>
       <description>
 
 &lt;h1 id=&#34;tips:e7ca16f375e6c22df64705b42852662b&#34;&gt;Tips&lt;/h1&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>About TravenUp</title>
-      <link>http://www.travenup.com/en/about/</link>
+      <link>http://localhost:1313/en/about/</link>
       <pubDate>Tue, 21 Jul 2015 11:36:29 -0300</pubDate>
       
-      <guid>http://www.travenup.com/en/about/</guid>
+      <guid>http://localhost:1313/en/about/</guid>
       <description>
 
 &lt;h1 id=&#34;about-travenup:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About TravenUp&lt;/h1&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>http://www.travenup.com/en/privacy/privacy_policy/</link>
+      <link>http://localhost:1313/en/privacy/privacy_policy/</link>
       <pubDate>Tue, 21 Jul 2015 10:48:36 -0300</pubDate>
       
-      <guid>http://www.travenup.com/en/privacy/privacy_policy/</guid>
+      <guid>http://localhost:1313/en/privacy/privacy_policy/</guid>
       <description>
 
 &lt;h1 id=&#34;privacy-policy:ba8e20cb6e739a50bc3b05dfc391e82b&#34;&gt;Privacy Policy&lt;/h1&gt;

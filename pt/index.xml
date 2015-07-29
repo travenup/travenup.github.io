@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pts on TravenUp</title>
-    <link>http://www.travenup.com/pt/</link>
+    <link>http://localhost:1313/pt/</link>
     <description>Recent content in Pts on TravenUp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jul 2015 12:04:32 -0300</lastBuildDate>
-    <atom:link href="http://www.travenup.com/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dicas</title>
-      <link>http://www.travenup.com/pt/ajuda/dicas/</link>
+      <link>http://localhost:1313/pt/ajuda/dicas/</link>
       <pubDate>Tue, 21 Jul 2015 12:04:32 -0300</pubDate>
       
-      <guid>http://www.travenup.com/pt/ajuda/dicas/</guid>
+      <guid>http://localhost:1313/pt/ajuda/dicas/</guid>
       <description>
 
 &lt;h1 id=&#34;recomendações:589e94a656ab280fcd53424c7c23e72c&#34;&gt;Recomendações&lt;/h1&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Sobre a TravenUp</title>
-      <link>http://www.travenup.com/pt/sobre/</link>
+      <link>http://localhost:1313/pt/sobre/</link>
       <pubDate>Tue, 21 Jul 2015 12:04:22 -0300</pubDate>
       
-      <guid>http://www.travenup.com/pt/sobre/</guid>
+      <guid>http://localhost:1313/pt/sobre/</guid>
       <description>
 
 &lt;h1 id=&#34;travenup-quem-somos:97937a001c393c87ba8a212fa6dfc753&#34;&gt;&lt;strong&gt;TravenUp, quem somos&lt;/strong&gt;&lt;/h1&gt;
@@ -69,10 +69,10 @@
     
     <item>
       <title>Política de Privacidade</title>
-      <link>http://www.travenup.com/pt/privacidade/</link>
+      <link>http://localhost:1313/pt/privacidade/</link>
       <pubDate>Tue, 21 Jul 2015 11:36:29 -0300</pubDate>
       
-      <guid>http://www.travenup.com/pt/privacidade/</guid>
+      <guid>http://localhost:1313/pt/privacidade/</guid>
       <description>
 
 &lt;h1 id=&#34;política-de-privacidade:fcdd28f88a7d8e96723cfe6d67a6aa00&#34;&gt;Política de Privacidade&lt;/h1&gt;
