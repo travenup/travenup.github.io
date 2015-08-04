@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TravenUp</title>
-    <link>http://localhost:1313/</link>
+    <link>http://www.travenup.com/</link>
     <description>Recent content on TravenUp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 Jul 2015 12:04:32 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.travenup.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dicas</title>
-      <link>http://localhost:1313/pt/ajuda/dicas/</link>
+      <link>http://www.travenup.com/pt/ajuda/dicas/</link>
       <pubDate>Tue, 21 Jul 2015 12:04:32 -0300</pubDate>
       
-      <guid>http://localhost:1313/pt/ajuda/dicas/</guid>
+      <guid>http://www.travenup.com/pt/ajuda/dicas/</guid>
       <description>
 
 &lt;h1 id=&#34;recomendações:589e94a656ab280fcd53424c7c23e72c&#34;&gt;Recomendações&lt;/h1&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Sobre a TravenUp</title>
-      <link>http://localhost:1313/pt/sobre/</link>
+      <link>http://www.travenup.com/pt/sobre/</link>
       <pubDate>Tue, 21 Jul 2015 12:04:22 -0300</pubDate>
       
-      <guid>http://localhost:1313/pt/sobre/</guid>
+      <guid>http://www.travenup.com/pt/sobre/</guid>
       <description>
 
 &lt;h1 id=&#34;travenup-quem-somos:97937a001c393c87ba8a212fa6dfc753&#34;&gt;&lt;strong&gt;TravenUp, quem somos&lt;/strong&gt;&lt;/h1&gt;
@@ -69,19 +69,19 @@
     
     <item>
       <title>TravenUp</title>
-      <link>http://localhost:1313/pt-br/</link>
+      <link>http://www.travenup.com/pt-br/</link>
       <pubDate>Tue, 21 Jul 2015 12:00:29 -0300</pubDate>
       
-      <guid>http://localhost:1313/pt-br/</guid>
+      <guid>http://www.travenup.com/pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tips</title>
-      <link>http://localhost:1313/en/help/tips/</link>
+      <link>http://www.travenup.com/en/help/tips/</link>
       <pubDate>Tue, 21 Jul 2015 11:36:37 -0300</pubDate>
       
-      <guid>http://localhost:1313/en/help/tips/</guid>
+      <guid>http://www.travenup.com/en/help/tips/</guid>
       <description>
 
 &lt;h1 id=&#34;tips:e7ca16f375e6c22df64705b42852662b&#34;&gt;Tips&lt;/h1&gt;
@@ -115,31 +115,11 @@
     </item>
     
     <item>
-      <title>About TravenUp</title>
-      <link>http://localhost:1313/en/about/</link>
-      <pubDate>Tue, 21 Jul 2015 11:36:29 -0300</pubDate>
-      
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;about-travenup:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About TravenUp&lt;/h1&gt;
-
-&lt;p&gt;Local experiences are the most enriching and cool!&lt;/p&gt;
-
-&lt;p&gt;We connect people who have expertise in travel services and experiences with those who are looking for these experices and services. Travelers can build real connections with local Insiders (suppliers of these services and experiences), gain access to distinctive and unique sites and condct an immersion in the culture of the destination.&lt;/p&gt;
-
-&lt;p&gt;We provide the Traveler with the expertise, taste and local secrets and bring to the local Insiders the pleasure to share their knowledge and time, and of course, being paid for it.&lt;/p&gt;
-
-&lt;p&gt;We are TravenUp! A place to find travel experiences and services, connecting people.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Política de Privacidade</title>
-      <link>http://localhost:1313/pt/privacidade/</link>
+      <link>http://www.travenup.com/pt/privacidade/</link>
       <pubDate>Tue, 21 Jul 2015 11:36:29 -0300</pubDate>
       
-      <guid>http://localhost:1313/pt/privacidade/</guid>
+      <guid>http://www.travenup.com/pt/privacidade/</guid>
       <description>
 
 &lt;h1 id=&#34;política-de-privacidade:fcdd28f88a7d8e96723cfe6d67a6aa00&#34;&gt;Política de Privacidade&lt;/h1&gt;
@@ -340,11 +320,31 @@ Se você nos solicitar que nós importemos seus contatos, coletaremos, mas não 
     </item>
     
     <item>
+      <title>About TravenUp</title>
+      <link>http://www.travenup.com/en/about/</link>
+      <pubDate>Tue, 21 Jul 2015 11:36:29 -0300</pubDate>
+      
+      <guid>http://www.travenup.com/en/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-travenup:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About TravenUp&lt;/h1&gt;
+
+&lt;p&gt;Local experiences are the most enriching and cool!&lt;/p&gt;
+
+&lt;p&gt;We connect people who have expertise in travel services and experiences with those who are looking for these experices and services. Travelers can build real connections with local Insiders (suppliers of these services and experiences), gain access to distinctive and unique sites and condct an immersion in the culture of the destination.&lt;/p&gt;
+
+&lt;p&gt;We provide the Traveler with the expertise, taste and local secrets and bring to the local Insiders the pleasure to share their knowledge and time, and of course, being paid for it.&lt;/p&gt;
+
+&lt;p&gt;We are TravenUp! A place to find travel experiences and services, connecting people.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
-      <link>http://localhost:1313/en/privacy/privacy_policy/</link>
+      <link>http://www.travenup.com/en/privacy/privacy_policy/</link>
       <pubDate>Tue, 21 Jul 2015 10:48:36 -0300</pubDate>
       
-      <guid>http://localhost:1313/en/privacy/privacy_policy/</guid>
+      <guid>http://www.travenup.com/en/privacy/privacy_policy/</guid>
       <description>
 
 &lt;h1 id=&#34;privacy-policy:ba8e20cb6e739a50bc3b05dfc391e82b&#34;&gt;Privacy Policy&lt;/h1&gt;
